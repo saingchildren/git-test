@@ -3,5 +3,5 @@ const initFunction = () => {
 };
 
 const Dev1Function = () => {
-  console.log("This is Dev2 Function.");
+  console.log("This is Dev1 Function.");
 };
